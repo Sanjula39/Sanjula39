@@ -15,8 +15,8 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sanjula-ranasinghe/)
+- [Email](mailto:sanjularanasinghe39@gmail.com)
 
 ---
 
