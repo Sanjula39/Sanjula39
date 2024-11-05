@@ -1,23 +1,23 @@
-👋 Hey there! I'm Sanjula, a seasoned software developer with expertise in Angular, React, .NET, and SQL. My journey involves crafting innovative solutions and user-centric designs using a tech stack that includes HTML, Bootstrap, Tailwind CSS, SASS/SCSS, CSS, and Javascript.
+# Hi, I'm Sanjula! 👋
 
-What I Do:
+**Software Engineer** specializing in ASP.NET Core, Angular, React, and Node.js, with over 2 years of hands-on experience in building dynamic and high-quality solutions. Passionate about the MERN stack and consistently delivering impactful projects in Agile environments.
 
-Develop robust applications with Angular, React, and .NET.
-Design intuitive, user-centered interfaces to solve complex problems.
-Write clean, efficient, and maintainable code adhering to best practices.
-Proficient in database management with SQL.
-Work Experience:
+---
 
-Softlogic Life IT (February 2022–November 2022)
-Frontend Developer Intern
-Trainee UI/UX Engineer
-Portfolio:
-Explore my latest projects and designs on my portfolio.
+## 🔧 Technologies & Skills
+- **Languages & Frameworks:** .NET Core, ASP.NET Core Web API, Angular, React, Node.js, MERN Stack
+- **Frontend Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, SASS/SCSS
+- **Design & Tools:** Figma, Adobe XD, Adobe Creative Suite
+- **Database & Backend:** SQL, Entity Framework
+- **Methodologies:** Agile, Scrum
 
-Skills:
+---
 
-Frontend Development: Angular, React, HTML, Bootstrap, Tailwind CSS, SASS/SCSS, CSS, Javascript
-Backend Development: .NET, SQL
+## 📫 Connect with Me
 
-Let's Connect: LinkedIn - Sanjula Ranasinghe 
-Thanks for checking out my profile!
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Email](mailto:your-email@example.com)
+
+---
+
+**"Embracing new challenges and continuous learning to drive innovative solutions."**
